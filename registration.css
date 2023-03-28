@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://images.pexels.com/photos/796602/pexels-photo-796602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pema{
+   background-color: goldenrod;
+   border-radius: 10px;
+}
+#loginbutton{
+    width: 100px;
+  
+}
+a{
+    color: red;
+    text-decoration: solid;
+    font-weight: bold;
+    
+}

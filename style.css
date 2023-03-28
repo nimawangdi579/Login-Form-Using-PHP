@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://dss.desuung.org.bt/wp-content/uploads/2021/06/K5-e1622700405297-1024x448.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sangay{
+    background-color:blanchedalmond;
+border-radius: 30px;
+background-image: url(https://o.remove.bg/downloads/f7d9e61d-fda5-4f85-b91a-16fe8cf13c58/artworks-5zJIINP9TYDUiEoN-V9Sv3g-t500x500-removebg-preview.png);
+background-size: cover;
+height: 500px;
+
+
+   }
+ #img1{
+    clip-path: circle(50% at 50% 50%);
+    height: 80px;
+    width: 80px;
+    position:relative;
+    right:70px;
+
+
+ }
+ #img2{
+    clip-path: circle(50% at 50% 50%);
+    height: 80px;
+    width: 80px;
+    position:relative;
+    left:160px;
+
+
+ }
+   
